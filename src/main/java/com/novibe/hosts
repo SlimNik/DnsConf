@@ -11,12 +11,6 @@
 # 31.25.239.132
 # В итоговом hosts указанно меньше сайтов чем проксируется через DNS.
 
-# Autodesk
-45.144.176.208 accounts.autodesk.com
-89.169.39.185 accounts.autodesk.com
-45.144.176.208 www.autodesk.com
-89.169.39.185 www.autodesk.com
-
 # ChatGPT & Sora (OpenAI)
 45.144.176.208 chatgpt.com
 89.169.39.185 chatgpt.com
@@ -817,49 +811,9 @@
 45.144.176.208 c10.patreonusercontent.com
 89.169.39.185 c10.patreonusercontent.com
 
-# Supercell
-185.246.223.127 game.brawlstarsgame.com
-103.27.157.38 accounts.supercell.com
-103.27.157.100 accounts.supercell.com
-31.25.239.132 accounts.supercell.com
-103.27.157.38 cdn.id.supercell.com
-103.27.157.100 cdn.id.supercell.com
-31.25.239.132 cdn.id.supercell.com
-103.27.157.38 clashofclans.inbox.supercell.com
-103.27.157.100 clashofclans.inbox.supercell.com
-31.25.239.132 clashofclans.inbox.supercell.com
-103.27.157.38 game-assets.brawlstarsgame.com
-103.27.157.100 game-assets.brawlstarsgame.com
-31.25.239.132 game-assets.brawlstarsgame.com
-103.27.157.38 game-assets.clashofclans.com
-103.27.157.100 game-assets.clashofclans.com
-31.25.239.132 game-assets.clashofclans.com
-103.27.157.38 game-assets.clashroyaleapp.com
-103.27.157.100 game-assets.clashroyaleapp.com
-31.25.239.132 game-assets.clashroyaleapp.com
-31.25.239.132 game.boombeachgame.com
-31.25.239.132 game.mocogame.com
-45.95.233.23 game.mocogame.com
-31.7.60.157 game.mocogame.com
-103.27.157.38 security.id.supercell.com
-103.27.157.100 security.id.supercell.com
-31.25.239.132 security.id.supercell.com
-103.27.157.38 store.supercell.com
-103.27.157.100 store.supercell.com
-31.25.239.132 store.supercell.com
-45.95.233.23 game.clashroyaleapp.com
-64.188.98.242 gamea.clashofclans.com
-108.61.167.26 game.squadbustersgame.com
-
 # Weather.com
 45.144.176.208 upsx.weather.com
 89.169.39.185 upsx.weather.com
 45.144.176.208 weather.com
 89.169.39.185 weather.com
-
-# Xerox
-45.144.176.208 xerox.com
-89.169.39.185 xerox.com
-45.144.176.208 www.xerox.com
-89.169.39.185 www.xerox.com
 ### dns.geohide.ru: end hosts file
